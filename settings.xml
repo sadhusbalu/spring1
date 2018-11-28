@@ -1,0 +1,18 @@
+<settings>
+  <proxies>
+    <proxy>
+      <id>genproxy</id>
+      <active>true</active>
+      <protocol>http</protocol>
+      <host>proxy.cognizant.com</host>
+      <port>6050</port>     
+    </proxy>
+	<proxy>
+      <id>genproxy</id>
+      <active>true</active>
+      <protocol>https</protocol>
+      <host>proxy.cognizant.com</host>
+      <port>6050</port>     
+    </proxy>
+ </proxies>
+</settings>
